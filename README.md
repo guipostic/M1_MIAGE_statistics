@@ -1,5 +1,5 @@
 
-# Séance 1 : Introduction à la théorie de probabilités
+# Séance 1 : Introduction à la théorie des probabilités
 
 ## Ensembles et dénombrements
 * Principe d'addition
