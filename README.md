@@ -26,7 +26,7 @@
 * Facteur de Bayes
 
 
-## Lois de probabilité : indicateurs
+## Lois de probabilité : indicateurs (principaux)
 * Espérance
 * Variance
 
@@ -34,3 +34,25 @@
 * TD 1.3 Paradoxe des deux enfants
 * TD 1.4 Taxi bleu
 * TD 1.5 Arbre des cartes
+
+
+# Séance 3 : Lois de probabilité discrètes
+
+## Principales lois : fonctions de masse et de répartition
+* Bernoulli
+* Géométrique
+* Binomiale
+* Uniforme
+* Poisson
+
+## Exercices
+* TD 2.1 Plan de table
+* TD 2.2 Indépendance
+
+
+# Séance 4 : Lois de probabilité discrètes (suite)
+
+## Exercices
+* TD 2.3 Dés (variance, convolution, partitionnement)
+* TD 2.4 Chances (pièces, Bayes)
+
