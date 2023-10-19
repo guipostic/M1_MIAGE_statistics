@@ -18,7 +18,7 @@
 * TD 1.2 Paradoxe des anniversaires
 
 
-# Séance 2 : Probabilités conditionnelles et distributions
+# Séance 2 : Probabilités conditionnelles, distributions
 
 ## Théorème de Bayes
 * Notion d'indépendance
