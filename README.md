@@ -56,3 +56,17 @@
 * TD 2.3 Dés (variance, convolution, partitionnement)
 * TD 2.4 Chances (pièces, Bayes)
 
+
+# Séance 5 : Lois de probabilité continues
+
+## Principales lois : fonctions de densité et de répartition
+* Exponentielle
+* Uniforme continue
+* Normale
+* χ²
+
+## Théorème central limite
+
+## Normalisation standard
+
+
